@@ -1,0 +1,6 @@
+server:
+  port: 6101
+spring:
+  application:
+    name: gateway
+
